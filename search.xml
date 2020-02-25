@@ -52,8 +52,8 @@
         <category>Docker笔记</category>
       </categories>
       <tags>
-        <tag>mysql</tag>
         <tag>docker</tag>
+        <tag>mysql</tag>
         <tag>redis</tag>
       </tags>
   </entry>
